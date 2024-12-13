@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @t4jt1j
+- 👋 Hi, I’m Taj
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ... I have no idea yet.
+- 💞️ I’m looking to collaborate on ... I have no idea yet
 - 📫 How to reach me ... t4jt1j@gmail.com
 
 <!---
